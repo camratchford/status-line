@@ -1,0 +1,5 @@
+/.idea/
+.todo.md
+build/*
+dist/*
+!*.placeholder
